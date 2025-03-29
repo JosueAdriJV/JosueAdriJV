@@ -24,9 +24,7 @@
 
 - 💬 Pregúntame sobre **Python**, **Java**, **C#**, **Excel**, **Visual Studio** y más.
 
-- 📫 Puedes contactarme a mi correo **josuejaravars@gmail.com**.
-
-
+<!-- 📫 Puedes contactarme a mi correo **gmail.com**.-->
 <!-- Tecnologías o lenguajes que uso -->
 <div id="user-content-toc">
   <ul align="center">
